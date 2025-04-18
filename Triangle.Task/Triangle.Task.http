@@ -1,0 +1,6 @@
+@Triangle.Task_HostAddress = http://localhost:5216
+
+GET {{Triangle.Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
